@@ -1,0 +1,1 @@
+This repository contains a simple two page basic design of a pet adoption website created in Figma. Here is link: https://www.figma.com/design/3zFOqgMNMHw2qyucpvIXaD/Pet-Adoption-Website?t=nYqEpmoZMkA8fVMc-1
